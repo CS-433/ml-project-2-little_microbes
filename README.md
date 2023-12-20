@@ -1,6 +1,4 @@
-# ml4science-synthetic-data
-
-SYNTHETIC DATA GENERATION WITH VAE FOR BETTER MODEL FAIRNESS
+# Synthetic data generation with VAE for fairness mitigation - ML4Science
 
 This project aims to build a VAE model that allows to generate synthetic data to augment a dataset in order to increase a classifier's fairness. This classifier aims to predict whether a student would pass a test, based on their clicks profile on a virtual learning simulation.
 
